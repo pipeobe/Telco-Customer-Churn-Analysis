@@ -11,7 +11,7 @@ length of service, contact, payment method, paperless billing, monthly charges, 
 phone, multiple lines, internet, online security, online backup, device protection, tech assistance,
 and streaming TV and movies were also all provided for the analysis.
 The data we gathered was provided from the course instructor and was obtained from
-the following link below.
+the following link:
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 The goal of the analysis is to determine to predict and anticipate the behavior of the

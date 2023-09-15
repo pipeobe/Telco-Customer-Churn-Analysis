@@ -1,27 +1,13 @@
 # Telco-Customer-Churn-Analysis
 
-Conducted data analysis to understand the Telco Customer Churn Data set. The data consisted of a variety of
-variable and attribute types, each of which was used to analyze the data set. The collected data
-contained attributes which related to the consumer usage at the Telco Company. A total of 7043
-rows represented different customers, and 20 columns represented different attributes of the
-same customer. The attributes were defined in the headings of the column. The attributes
-consisted of gender, age range, partners or dependents, these attributes can be classified as
-the customers’ demographic information. Furthermore, attributes such as account information,
-length of service, contact, payment method, paperless billing, monthly charges, total charges,
-phone, multiple lines, internet, online security, online backup, device protection, tech assistance,
-and streaming TV and movies were also all provided for the analysis.
-The data we gathered was provided from the course instructor and was obtained from
-the following link:
+I performed data analysis using Python to better understand the causes of customer churn in a telecommunications company. Each type of variable and attribute that made up the data was used to examine the data set. The data that was gathered included characteristics that connected to customer usage at the telecommunications company. Twenty columns represented various attributes of one client, while a total of 7043 rows represented several customers. The column titles provided descriptions of the qualities. The attributes, which included gender, age range, partners, and dependents, might be categorized as demographic data on the clients. Additionally, characteristics include account details, service duration, contact information, payment method, paperless billing, monthly charges, overall charges, phone, multiple lines, and internet, online security, online backup, device protection, tech assistance, and streaming TV and movies were also all provided for the analysis. 
+
+The data gathered was obtained from the following link below:
+
+
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
-The goal of the analysis is to determine to predict and anticipate the behavior of the
-customer in relation to churning or leaving the company. In addition, the analysis would allow
-Telco to determine how best to retain consumers, and what services result in customers leaving
-the company. This forecast will be done by analyzing the 20 attributes, each of which will be
-compared and analyzed with the churning column. We will focus on how attributes correlate with
-each other and with churning. Identification and removal of corrupt data is also a key part in the
-data preprocessing part.
-Furthermore, the following algorithms were used: Logistic Regression, Decision tree and
-Random Forest and the following to evaluate the data: the holdout method, bootstrap method
-and cross-validation. The end goal of this analysis is to predict what is causing customers to
-churn from the company and if it is possible to retain these customers.
+Using several algorithms and evaluation techniques, including logistic regression and bootstrap, the investigation sought to identify, forecast, and foresee the customer's behavior in connection to churning. The investigation would also allow the Telco to identify what services cause customers to leave the business and how to effectively retain clients. By comparing and analyzing each of the 20 attributes with the churning column, this forecast will be made. We shall concentrate on the relationships between attributes and churning. A crucial aspect before this is the data reprocessing phase, which is the detection and elimination of faulty data.
+
+ 
+Additionally, we'll examine the data using the holdout method, bootstrap method, and cross-validation, as well as the methods Logistic Regression, Decision Tree, and Random Forest. The ultimate objective of this study is to identify the factors that are driving customers away from the business and determine whether it is possible to keep them.

@@ -10,4 +10,15 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 Using several algorithms and evaluation techniques, including logistic regression and bootstrap, the investigation sought to identify, forecast, and foresee the customer's behavior in connection to churning. The investigation would also allow the Telco to identify what services cause customers to leave the business and how to effectively retain clients. By comparing and analyzing each of the 20 attributes with the churning column, this forecast will be made. We shall concentrate on the relationships between attributes and churning. A crucial aspect before this is the data reprocessing phase, which is the detection and elimination of faulty data.
 
  
-Additionally, we'll examine the data using the holdout method, bootstrap method, and cross-validation, as well as the methods Logistic Regression, Decision Tree, and Random Forest. The ultimate objective of this study is to identify the factors that are driving customers away from the business and determine whether it is possible to keep them.
+Additionally, I examined the data using the holdout method, bootstrap method, and cross-validation, as well as the methods Logistic Regression, Decision Tree, and Random Forest. The ultimate objective of this study was to identify the factors that are driving customers away from the business and determine whether it is possible to keep them.
+
+In Conclusion, according to the charts and evaluations, TotalCharges attribute is the one element
+that most closely connects to Churn, followed by a month-to-month contract and fiber-optic
+service. I found that given that fiber-optic internet is the quickest choice available, it is really
+odd that fiber-optic seemed to be quite the sign of a customer churning. Also, I tried to see
+which attributes correlated negatively to customer churn and I saw that tenure has the
+strongest negative correlation with churn, whereas the top 7 features chosen for our evaluations
+have just moderately negative correlations. This leads me to the conclusion that tenure
+significantly lowers the chance of churn. These results are intriguing because while having DSL
+reduces the likelihood of turnover, having fiber-optic internet, which is quicker, for some reason
+raises the likelihood of churn.
